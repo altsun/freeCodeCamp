@@ -13,7 +13,7 @@
     "@fastify/swagger": "8.14.0",
     "@fastify/swagger-ui": "1.10.2",
     "@fastify/type-provider-typebox": "3.6.0",
-    "@immobiliarelabs/fastify-sentry": "7.1.1",
+    "@immobiliarelabs/fastify-sentry": "8.0.2",
     "@prisma/client": "5.5.2",
     "ajv": "8.12.0",
     "ajv-formats": "2.1.1",
